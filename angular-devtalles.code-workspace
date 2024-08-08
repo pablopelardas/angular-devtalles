@@ -7,5 +7,9 @@
 			"path": "docs"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"exportall.config.folderListener": [
+			"/src/app/dbz/interfaces"
+		]
+	}
 }
